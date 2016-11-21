@@ -1,0 +1,8 @@
+1. Definition of risk
+2. Brief description of "Maritime Domain Awareness" (MDA) [the problem domain]
+3. Brief description of "Risk Management Framework" (RMF) [the tool used to tackle MDA]
+4. Describe the objective: using parallel computing to improve throughput in the RMF
+4. Describe the parallel approach/algorithm
+5. Expected performance
+6. Actual results (if I have results to show)
+7. Conclusion / Interesting findings
